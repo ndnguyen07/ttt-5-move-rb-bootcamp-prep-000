@@ -10,4 +10,5 @@ end
 
 def input_to_index(number)
   puts "Where would you like to go?"
-  ans = 
+  ans =- 1
+  
